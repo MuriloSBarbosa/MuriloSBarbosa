@@ -5,16 +5,16 @@
   </a>
 </p>
 
-# Olá, pessoal! Tudo bem? 💫
+# Hello, guys! What's up? 💫
 
 ## whoami
-- :octocat: Desenvolvedor full-stack
-- 📚 Monitor acadêmico
-- 🗺️ Brasileiro
-- 🔭 Trabalhando na SPTech
-- ⚡ Amo tocar Sax Soprano 🎷
+- :octocat: Full-stack developer
+- 📚 Academic monitor
+- 🗺️ Brazilian
+- 🔭 Working at SPTech
+- ⚡ Love playing Soprano Sax 🎷
 
-## Tecnologias 
+## Technologies
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,java,mysql,nodejs,sequelize,ts,vite,react,next,vue,figma,linux,aws,azure" />
