@@ -9,7 +9,7 @@
 
 ## whoami
 - :octocat: Full-stack developer
-- 📚 Academic monitor
+- 📚 Professor
 - 🗺️ Brazilian
 - 🔭 Working at SPTech
 - ⚡ Love playing Soprano Sax 🎷
